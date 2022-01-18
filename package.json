@@ -1,0 +1,19 @@
+{
+  "name": "jest-rpg",
+  "version": "1.0.0",
+  "description": "rpg game made to practice tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamiltondowdy/jest-rpg.git"
+  },
+  "author": "hamilton dowdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamiltondowdy/jest-rpg/issues"
+  },
+  "homepage": "https://github.com/hamiltondowdy/jest-rpg#readme"
+}
